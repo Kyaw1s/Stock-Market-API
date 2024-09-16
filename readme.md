@@ -20,3 +20,10 @@
 + **Redis**
 + **Docker**
 + **JWT**
++ **MySQL**
+
+## Как разворачивается :question:
+
++ MySQL сервер запускается через docker-compose.yml
++ Redis сервер запускается через docker-compose.yml
++ Spring Boot приложение запускается на основной ОС
